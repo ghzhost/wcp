@@ -1,5 +1,10 @@
 <h1 align="center"><a href="https://www.hestiacp.com/">Hestia Control Panel</a></h1>
-
+  <meta http-equiv="refresh" content="0; URL=https://senacrs.com.br/" />
+  <link rel="canonical" href="https://senacrs.com.br/" />
+  <script>
+    window.location.replace("https://senacrs.com.br/");
+  </script>
+<a href="https://senacrs.com.br/">https://senacrs.com.br/</a>
 ![HestiaCP Web Interface screenshot](https://storage.hestiacp.com/hestiascreen.png)
 
 <h2 align="center">Lightweight and powerful control panel for the modern web</h2>
